@@ -1,0 +1,5 @@
+{
+  "mqtt_server": "mqtt.example.org",
+  "mqtt_topic": "topic/abcd",
+  "http_endpoint": "https://example.org/api/abcd"
+}
